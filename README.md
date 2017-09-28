@@ -5,4 +5,11 @@ Trabalhos realizados na disciplina de Algoritmos e estruturas de dados:
 
 * Queue
 
-* Linked List
+* Lists
+  - Liked List
+  
+  - Circular Linked List
+  
+  - Doubly Linked List
+  
+  - Circular Doubly Linked List
